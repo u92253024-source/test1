@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Vibe Coding 檔案匯整</title>
+<style>
+body{font-family:Arial;margin:40px}
+h1{color:blue}
+</style>
+</head>
+
+<body>
+
+<h1>Vibe Coding 檔案匯整</h1>
+
+<input type="file" id="files" multiple accept=".xlsx,.xls">
+
+<br><br>
+
+<button onclick="mergeFiles()">合併檔案</button>
+
+<p id="result"></p>
+
+<script>
+
+function mergeFiles(){
+document.getElementById("result").innerHTML =
+"此HTML示範版僅提供介面，實際Excel合併需Python版本執行";
+}
+
+</script>
+
+</body>
+</html>
