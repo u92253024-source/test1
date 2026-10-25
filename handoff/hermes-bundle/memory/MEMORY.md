@@ -1,0 +1,6 @@
+- 專案：教務處 AI 推廣社群（約 10 人種子同仁）。完整背景見專案內 AGENTS.md 與 history/。
+- 運作：一個核心社群＋三軌（考照、競賽、Vibe Coding）。第一個專案＝學分抵免與學程認定的 NotebookLM 詢答。
+- 已辦：9/17 第一次聚會、10/7 第二次聚會（提示詞＋ThinkFirst）。下一場：資料整理與試算表。
+- 原則：Human-in-the-loop；個資不上傳境外服務；不得自行寄信，只出草稿。
+- 問卷回覆原檔含可識別資訊，不納入記憶或版本控制。
+- 工具：live-presentation-pusher（會議廣播）、thinkfirst（提示詞 skill）、練習室網頁（Claude 版與 Gemini 版）。
